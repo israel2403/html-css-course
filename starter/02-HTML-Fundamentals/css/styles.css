@@ -5,6 +5,13 @@ h4,
 p,
 li {
   font-family: sans-serif;
+  color: #444;
+}
+
+h1,
+h2,
+h3 {
+  color: #1098ad;
 }
 h1 {
   font-size: 26px;
@@ -60,4 +67,8 @@ li {
 
 .related {
   list-style: none;
+}
+
+header {
+  background-color: #f7f7f7;
 }
