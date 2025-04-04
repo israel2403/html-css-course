@@ -35,11 +35,20 @@ li {
   font-size: 20px;
 }
 
-footer p {
+/* footer p {
   font-size: 16px;
   text-align: center;
-}
+} */
 
-article header p {
+/* article header p {
   font-style: italic;
+} */
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+#copyright {
+  font-size: 16px;
+  text-align: center;
 }
