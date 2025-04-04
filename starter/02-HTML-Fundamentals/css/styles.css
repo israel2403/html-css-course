@@ -69,6 +69,15 @@ li {
   list-style: none;
 }
 
-header {
+.main-header {
+  background-color: #f7f7f7;
+}
+
+aside {
+  background-color: #f7f7f7;
+  border: 5px solid #1098ad;
+}
+
+body {
   background-color: #f7f7f7;
 }
