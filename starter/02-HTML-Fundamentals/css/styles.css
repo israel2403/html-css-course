@@ -89,7 +89,3 @@ li:first-child {
 li:last-child {
   font-style: italic;
 }
-
-li:nth-child(even) {
-  color: red;
-}
